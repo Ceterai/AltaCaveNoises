@@ -1,0 +1,26 @@
+[
+  [
+    {
+      "op" : "test",
+      "path" : "/statusEffects",
+      "inverse" : false
+    },
+    {
+      "op" : "add",
+      "path" : "/statusEffects/-",
+      "value" : "cavenoises"
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path" : "/statusEffects",
+      "inverse" : true
+    },
+    {
+      "op" : "add",
+      "path" : "/statusEffects",
+      "value" : [ "cavenoises" ]
+    }
+  ]
+]

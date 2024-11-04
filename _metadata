@@ -1,0 +1,11 @@
+{
+  "author" : "Ceterai",
+  "description" : "A small mod that makes alta characters hear scary cave noises when in complete darkness.\n\nRequires My Enternia, Cave Noises Base and Hide In The Dark (no player Glow) to function.",
+  "friendlyName" : "Alta Cave Noises",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia", "cavenoises", "Hide In The Dark (no player Glow)"],
+  "link" : "steam://url/CommunityFilePage/3360174613",
+  "name" : "AltaCaveNoises",
+  "steamContentId" : "3360174613",
+  "tags" : "Miscellaneous|Character Improvements|Mechanics",
+  "version" : "1.0"
+}

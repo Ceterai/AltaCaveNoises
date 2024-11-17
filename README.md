@@ -8,27 +8,29 @@ Requires ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/
 
 These are all the different ways to obtain the mod - choose whichever one you like!
 
-### Steam
+**Steam version:** simply subscribe to this mod on Steam (link below)!
 
-Subscribe to this mod on Steam! [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3360174613)
+**Non-Steam version:**
 
-### Starbound Forums
-
-Get this mod on the official Chucklefish Forums: [Link](https://community.playstarbound.com/resources/alta-cave-noises.6328/)
-
-### GitHub
-
-1. Download the latest release or clone the repo;
-1. Put the dowloaded/cloned folder into the `mods` folder in your Starbound directory.
+1. Download the latest release GitHub, clone the repo, download it from Starbound Forums;
+2. Put the dowloaded/cloned folder into the `mods` folder in your Starbound directory (if it's a `.zip` archive, you'll want to unpack it first).
 
 > When downloading a release, you can choose between a `.zip` and a `.pak` version.
 
 > Files, attached to releases, support direct public download links, so **can be used by servers** as well.
 
-### Nexus Mods
+<div align="center">
+<a class="ct_button" href="https://github.com/Ceterai/AltaCaveNoises/releases">GITHUB</a>
+</div>
 
-- *COMING SOON*
+<div align="center">
+<a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3360174613">STEAM</a>
+</div>
+
+<div align="center">
+<a class="ct_button" href="https://community.playstarbound.com/resources/alta-cave-noises.6328/">STARBOUND FORUMS</a>
+</div>
 
 ## Screenshots
 
-<video src=".meta/showcase.mp4" controls></video>
+<video src="https://github.com/Ceterai/AltaCaveNoises/raw/refs/heads/main/.meta/showcase.mp4" controls></video>
